@@ -1,0 +1,9 @@
+[gd_scene format=2]
+
+[node name="push_confirmation_dialog" type="ConfirmationDialog"]
+margin_right = 235.0
+margin_bottom = 76.0
+popup_exclusive = true
+window_title = "Push now?"
+dialog_text = "Are you sure you want to push your builds?
+(this process can not be safely cancelled)"

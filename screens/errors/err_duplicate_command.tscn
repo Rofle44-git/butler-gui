@@ -1,0 +1,9 @@
+[gd_scene format=2]
+
+[node name="AcceptDialog" type="AcceptDialog"]
+margin_right = 256.0
+margin_bottom = 128.0
+popup_exclusive = true
+window_title = "error"
+dialog_text = "this command is already present in the command queue"
+dialog_autowrap = true

@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="AcceptDialog" type="AcceptDialog"]
+visible = true
+margin_right = 416.0
+margin_bottom = 160.0
+popup_exclusive = true
+window_title = "error"
+dialog_text = "having spaces in a folder name is generally not advisable. performing a build push might result in an error. please try again after this issue has been resolved."
+dialog_autowrap = true

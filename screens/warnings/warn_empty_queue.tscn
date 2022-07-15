@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="warn_empty_queue" type="ConfirmationDialog"]
+visible = true
+margin_right = 320.0
+margin_bottom = 128.0
+popup_exclusive = true
+window_title = "warning"
+dialog_text = "no commands found inside the push queue. use preview command?"
+dialog_autowrap = true

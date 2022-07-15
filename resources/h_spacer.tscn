@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="StyleBoxEmpty" id=1]
+
+[node name="h_spacer" type="HSeparator"]
+margin_right = 40.0
+margin_bottom = 8.0
+size_flags_horizontal = 3
+custom_constants/separation = 16
+custom_styles/separator = SubResource( 1 )
